@@ -1,6 +1,3 @@
-# pediatric-drug-rag-app
-A RAG system to analyze and summarize the latest pediatric adverse drug events from the FDA.
-
 # 🔬 Pediatric Drug Safety Explorer
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)
