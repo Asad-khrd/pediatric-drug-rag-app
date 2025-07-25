@@ -9,7 +9,7 @@
 An advanced, on-demand RAG (Retrieval-Augmented Generation) system that analyzes real-time FDA data to generate safety profiles for drugs used in pediatric populations (ages 0-17).
 
 **Live Demo:** ``
-![Link](https://pediatric-drug-rag-app-scg4qvbqcrethpnbaxwib5.streamlit.app/)
+[Live Demo](https://pediatric-drug-rag-app-scg4qvbqcrethpnbaxwib5.streamlit.app/)
 ---
 
 ## 🎯 Problem Statement
